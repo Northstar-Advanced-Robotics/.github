@@ -3,17 +3,15 @@
 
   # Northstar Advanced Robotics
 
-  <em>Building competition robots, from CAD to code to combat.</em>
 </div>
 
 <br />
 
 ## Welcome
 
-Whether you just joined the team or you've been here since the first prototype hit the floor, this page is your map to everything we build in software. Below are our core repositories — what each one does, who works in it, and where to start.
+Whether you just joined the team or your a veteran member, this page is your map to everything we build in software. Below are our core repositories.
 
-New members: start with **Resources** to get your dev environment set up, then head into whichever subteam repo matches where you're contributing. Veterans: you know the drill, links below.
-
+New members: start with **Resources** to get your dev environment set up, then head into whichever subteam repo matches where you're contributing.
 <br />
 
 ## Repositories
@@ -28,7 +26,7 @@ New members: start with **Resources** to get your dev environment set up, then h
     </td>
   </tr>
   <tr>
-    <td><strong>🤖</strong></td>
+    <td><strong>🦾</strong></td>
     <td>
       <a href="https://github.com/Northstar-Advanced-Robotics/northstar-robomaster"><strong>northstar-robomaster</strong></a>
       <br />
@@ -36,7 +34,7 @@ New members: start with **Resources** to get your dev environment set up, then h
     </td>
   </tr>
   <tr>
-    <td><strong>🛰️</strong></td>
+    <td><strong>🤖</strong></td>
     <td>
       <a href="https://github.com/Northstar-Advanced-Robotics/northstar_sentry_ros"><strong>northstar_sentry_ros</strong></a>
       <br />
@@ -59,7 +57,7 @@ New members: start with **Resources** to get your dev environment set up, then h
 
 1. Read through [`resources`](https://github.com/Northstar-Advanced-Robotics/resources) and follow the setup guide for your subteam.
 2. Clone the repo(s) for the subteam(s) you're working on.
-3. Ask in team chat if you get stuck — someone's been stuck there before you.
+3. Ask if you get stuck, someone's been stuck there before you.
 
 <br />
 
